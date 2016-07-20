@@ -1,0 +1,17 @@
+p {
+   width:260px;
+   height: 210px;
+   text-align: center;
+   font-size: 18px;
+   padding-top: 70px;
+   padding-left: 40px;
+   padding-right: 40px;
+   padding-bottom: 10px;
+   font-family: "Times New Roman", Times, serif;
+   border: 16px solid yellow;
+}
+
+.abajo{
+   margin-left: 550px;
+   text-align: left;
+}
